@@ -1,62 +1,64 @@
+#Made by Coy during an NFC Workshop at TexSAW 2025 and shared with members at DC214 in June 2025
+
 Steps for Reading and Writing an NFC Card
 
 1.	Download the NFC Tools App
 
-a.	Available on both Android (Play Store) and iOS (App Store).
+    a. 	Available on both Android (Play Store) and iOS (App Store).
 
 2.	Read the NFC Card
 
-a.	Open the NFC Tools app.
+    a.	Open the NFC Tools app.
 
-b.	Go to the "Read" tab.
+    b.	Go to the "Read" tab.
 
-c.	Place the NFC card at the back of your phone.
+    c.	Place the NFC card at the back of your phone.
 
-i.	Ensure NFC is enabled on your phone.
+            i.	Ensure NFC is enabled on your phone.
 
-ii.	Adjust the card position to match the location of the phone’s NFC antenna:
+            ii.	Adjust the card position to match the location of the phone’s NFC antenna:
 
-1.	iPhones: Top backside.
+                      1.	iPhones: Top backside.
 
-2.	Android phones: Middle backside.
+                      2.	Android phones: Middle backside.
 
 3.	Prepare to Write to the NFC Card
 
-a.	Switch to the "Write" tab.
+      a.	Switch to the "Write" tab.
 
-b.	Tap on "Add a Record."
+      b.	Tap on "Add a Record."
 
 4.	Choose the Type of Record
 
-a.	Select "Custom URL/URI."
+      a.	Select "Custom URL/URI."
 
-i.	Paste the URL of your personal website or LinkedIn.
+                i.	Paste the URL of your personal website or LinkedIn.
 
-ii.	Ensure the URL is under 888 bytes.
+                ii.	Ensure the URL is under 888 bytes.
 
 5.	Write to the NFC Card
 
-a.	Tap "Write" and follow the on-screen instructions.
+    a.	Tap "Write" and follow the on-screen instructions.
 
 6.	Secure the NFC Card (Optional)
 
-a.	Go to the "Other" tab in the app.
+    a.	Go to the "Other" tab in the app.
 
-b.	Select "Lock Tag" or "Set Password."
+    b.	Select "Lock Tag" or "Set Password."
 
-i.	Warning: Locking the tag is irreversible!
+              i.	Warning: Locking the tag is irreversible!
 
 Congratulations! You now have your own personalized NFC business card. Use it to connect with others!
 
 Troubleshooting Tips
 
-•	Make sure NFC is enabled in your device settings.
+      •	Make sure NFC is enabled in your device settings.
 
-•	Try removing your phone case.
+      •	Try removing your phone case.
 
-•	Adjust card placement if it's not being detected.
+      •	Adjust card placement if it's not being detected.
 
-•	Some phone models may not support NFC.
+      •	Some phone models may not support NFC.
 
-•	The NFC card may be defective. If it is, come up to me and I’ll give you another one.
+      •	The NFC card may be defective. If it is, come up to me and I’ll give you another one.
 
